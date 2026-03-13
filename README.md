@@ -2,6 +2,7 @@
 A unique Tic-Tac-Toe experience that pairs a recursive Minimax AI with a warm, "sketchbook" interface. This project explores how high-level game theory can be presented through an organic, hand-drawn UI.
 
 # Visual gallery 
+<img width="240" height="63" alt="image" src="https://github.com/user-attachments/assets/ecbb1193-e3e5-4e8b-a5fe-caab59723b47" />
 <img width="1887" height="981" alt="Screenshot 2026-03-13 200829" src="https://github.com/user-attachments/assets/990c1b2a-ea1a-4fa8-93dc-42ebacbc619c" />
 <img width="1885" height="979" alt="Screenshot 2026-03-13 200847" src="https://github.com/user-attachments/assets/4ad328e6-1e47-4072-9a98-0282fd2401df" />
 
