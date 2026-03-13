@@ -31,11 +31,20 @@ def blanks (board):
 def set_move(board,x,y,player):
     board[x][y] = player
 
+def evaluate(board, depth):
+    if winning_player(board, 1):
+        return 10 + depth
+    elif winning_player(board, -1):
+        return -10 - depth
+    else:
+        return 0
+
 
 
 def alfa_beta_minimax(board, depth, a, b, player):
     row, col = -1, -1
     if depth == 0 or game_is_won(board):
+        return [row, col, evaluate(board,depth)]
     if player == 1:
         bestScore = -inf
         for space in blanks(board):
