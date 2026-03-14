@@ -33,7 +33,6 @@ function App() {
     setMsg("AI is thinking...");
 
     try {
-      const res = await fetch('http://127.0.0.1:5000/ai-move', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ board: nextGrid })
@@ -55,16 +54,13 @@ function App() {
         }, 4000);
       }
     } catch (e) {
-      setMsg("Error: Python server crashed!");
     }
   };
 
   return (
     <div className="container">
-  
       <h1 className="title">Play Tic-Tac-Toe with AI</h1>
 
-  
       <div className="board-container">
         {grid.map((row, rIdx) => (
           <div key={rIdx} className="board-row">
