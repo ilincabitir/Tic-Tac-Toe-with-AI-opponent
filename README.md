@@ -1,6 +1,10 @@
 # Artsy Tic Tac Toe game with AI opponent
 A unique Tic-Tac-Toe experience that pairs a recursive Minimax AI with a warm, "sketchbook" interface. This project explores how high-level game theory can be presented through an organic, hand-drawn UI.
 
+# Link to play
+Play it youself at the following address: [https://69b532887cf209bd2e3e2ac2--jovial-druid-ecdc72.netlify.app]
+Have fun!
+
 # Visual gallery 
 <img width="240" height="63" alt="image" src="https://github.com/user-attachments/assets/ecbb1193-e3e5-4e8b-a5fe-caab59723b47" />
 <img width="1887" height="981" alt="Screenshot 2026-03-13 200829" src="https://github.com/user-attachments/assets/990c1b2a-ea1a-4fa8-93dc-42ebacbc619c" />
