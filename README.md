@@ -2,7 +2,7 @@
 A unique Tic-Tac-Toe experience that pairs a recursive Minimax AI with a warm, "sketchbook" interface. This project explores how high-level game theory can be presented through an organic, hand-drawn UI.
 
 # Link to play
-Play it youself at the following address: [https://69b532887cf209bd2e3e2ac2--jovial-druid-ecdc72.netlify.app]
+Play it youself at the following address: [https://jovial-druid-ecdc72.netlify.app]
 Have fun!
 
 # Visual gallery 
